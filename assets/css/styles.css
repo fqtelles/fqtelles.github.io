@@ -399,6 +399,7 @@ img {
 
 .home__data {
   grid-column: 1/3;
+  z-index: 1000;
 }
 
 .home__title {
@@ -418,6 +419,7 @@ img {
 
 .home__scroll {
   display: none;
+  z-index: 1000;
 }
 
 .home__scroll-button {
